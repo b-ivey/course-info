@@ -7,7 +7,7 @@
 *E-mail:* b.ivey@miami.edu<br/>
 *Office Hours:* By request only
 
-*Course web site:* https://github.com/umiami-web-design/
+*Course web site:* https://github.com/b-ivey/course-info
 
 
 ### Course Description
