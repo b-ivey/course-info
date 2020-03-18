@@ -1,4 +1,4 @@
-# JMM 341/640: Web Design
+# JMM 341-4J: Web Design
 ## Syllabus (Spring 2020)
 
 **Belinda Ivey**<br/>
