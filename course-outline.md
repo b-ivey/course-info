@@ -3,7 +3,7 @@
 
 Complete reading assignments before the start of the following week.
 
-Check back weekly for updates.
+Check back weekly for updates. **Last updated March 18, 2020**
 
 ## Due Dates
 
