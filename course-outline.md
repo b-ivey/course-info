@@ -113,6 +113,8 @@ All assignments are due at noon on the date specified.
 
 ### Week 13 (April 6)
 
+**DUE:** CSS project (Friday, April 10, Noon)
+
 - **Learning Web Design**
   - Ch. 21: Introduction to JavaScript
   - Ch. 22: Using JavaScript
