@@ -2,7 +2,6 @@
 ## Syllabus (Spring 2020)
 
 **Belinda Ivey**<br/>
-*Office:* None<br/>
 *Phone:* Email for the private cell number<br/>
 *E-mail:* b.ivey@miami.edu<br/>
 *Office Hours:* By request only
@@ -52,7 +51,7 @@ Students are expected to have the following installed on their personal computer
 
 ### Coursework
 
-**Class Participation (30 points):** Attendance, walkthroughs and pair programming exercises.
+**Class Participation (20 points):** Attendance, walkthroughs and pair programming exercises.
 
 **GitHub Setup (10 points):** A self-guided task to set up your web hosting on GitHub.
 
@@ -60,7 +59,7 @@ Students are expected to have the following installed on their personal computer
 
 **CSS (10 points):** Demonstrate visual design and interactivity principles by styling your HTML documents.
 
-**Final project (40 points):** Build a web site. The final project is cumulative and should demonstrate growth in your skill set from the first two projects.
+**Final project (50 points):** Build a web site. The final project is cumulative and should demonstrate growth in your skill set from the first two projects. Extra credit is possible if you go above and beyond the curriculum.
 
 **Total points possible: 100.**
 
@@ -96,7 +95,9 @@ Final grades are based on the completion of coursework as noted. The grading sca
 
 **Attendance and class participation is required.**
 
-Make sure you sign the attendance sheet before the end of class.
+For regular classes, you will be expected to sign an attendance sheet by the end of each class. It is your responsibility to make sure you sign the sheet.
+
+For the online portion of the course, attendance will be taken when you join the Collaborate session each week on Blackboard. Also, posting and commenting on other student projects in the discussion board in Blackboard will count towards attendance as well. You are expected to log in at least twice a week to get credit for attendance.
 
 Simply put: Treat this course as a job; I am your boss. You would never tell your employer after the fact why you did not show up to work. If you are going to miss a class be proactive in letting me know (via email).
 
@@ -118,6 +119,8 @@ I keep track of your attendance *and* your participation on the work we do in th
 In-class exercises are designed to allow you to apply what you have learned and make mistakes without penalty. You are not always expected to finish these; sometimes one mistake will leave you struggling for longer than desired. This is why I do not grade these exercises. But I will account for your focus and effort which is 30 percent of your grade.
 
 If you finish an exercise ahead of time, use the time to try ideas you come up with. Look at other code examples. Create some of your own. Break code. Practice. Don't sit around.
+
+When we transition to the virtual classroom, it is vital you participate in the Discussion board on Blackboard. You are expected to post links to your exercises and projects in the appropriate discussion thread. You will also be required to comment on at least two other student projects and give constructive criticism and advice where applicable. Simple replies like posting that you like the project or that you agree with another poster is not constructive or helpful advice. 
 
 
 ### Classroom Etiquette
