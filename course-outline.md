@@ -99,7 +99,7 @@ All assignments are due at noon on the date specified.
 - **Spring Break: March 7-22**
 
 
-### Week 11 (March 23) **Transition to online learning on Blackboard**
+### Week 11 (March 23) *Transition to online learning on Blackboard*
 
 - **Learning Web Design**
   - Ch. 15: Floating and Positioning
