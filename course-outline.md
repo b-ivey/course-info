@@ -10,7 +10,7 @@ Check back weekly for updates.
 All assignments are due at noon on the date specified.
 
 - **GitHub Setup:** Friday, February 7.
-- **HTML:** Friday, February 14.
+- **HTML:** Friday, February 21.
 - **CSS:** Friday, April 10.
 - **Final Project:** Friday, April 24.
 
@@ -129,6 +129,6 @@ All assignments are due at noon on the date specified.
 
 ### Week 15 (April 20)
 
-- Q&A on your final project.
+- Q&A with final project.
 
 - **DUE: FINAL PROJECT: Friday, April 24, Noon**
