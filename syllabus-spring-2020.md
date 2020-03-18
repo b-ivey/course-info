@@ -1,11 +1,11 @@
 # JMM 341/640: Web Design
 ## Syllabus (Spring 2020)
 
-**Erin Brown**<br/>
-*Office:* Wolfson 2011<br/>
-*Phone:* 305-284-2235<br/>
-*E-mail:* erin dot brown at miami dot edu<br/>
-*Office Hours:* Monday and Wednesday, 3-4:30 p.m.
+**Belinda Ivey**<br/>
+*Office:* None<br/>
+*Phone:* Email for the private cell number<br/>
+*E-mail:* b.ivey@miami.edu<br/>
+*Office Hours:* By request only
 
 *Course web site:* https://github.com/umiami-web-design/
 
