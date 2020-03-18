@@ -11,8 +11,8 @@ All assignments are due at noon on the date specified.
 
 - **GitHub Setup:** Friday, February 7.
 - **HTML:** Friday, February 14.
-- **CSS:** TBA.
-- **Final Project:** Friday, May 1.
+- **CSS:** Friday, April 10.
+- **Final Project:** Friday, April 24.
 
 
 ## Readings
@@ -94,31 +94,30 @@ All assignments are due at noon on the date specified.
   - Ch. 14: Thinking Inside the Box
 
 
-### Week 9 (March 9)
+### Week 9-10 (March 9-20)
 
-- **Spring Break: March 7-15**
+- **Spring Break: March 7-22**
 
 
-### Week 10 (March 16)
+### Week 11 (March 23) **Transition to online learning on Blackboard**
 
 - **Learning Web Design**
   - Ch. 15: Floating and Positioning
 
 
-### Week 11 (March 23)
+### Week 12 (March 30)
 
 - **Learning Web Design**
   - Ch. 16: CSS Layout with Flexbox and Grid
 
 
-### Week 12 (March 30)
+### Week 13 (April 6)
 
 - **Learning Web Design**
   - Ch. 21: Introduction to JavaScript
   - Ch. 22: Using JavaScript
 
-
-### Week 13 (April 6)
+### Week 14 (April 13)
 
 - **Learning Web Design**
   - Ch. 17: Responsive Web Design
@@ -126,16 +125,8 @@ All assignments are due at noon on the date specified.
     - Read "Responsive Image Markup" (pp. 146-158)
 
 
-### Week 14 (April 13)
-
-- TBA
-
-
 ### Week 15 (April 20)
 
-- TBA
+- Q&A on your final project.
 
-
-### Finals Week
-
-- **DUE: FINAL PROJECT: Friday, May 1, Noon**
+- **DUE: FINAL PROJECT: Friday, April 24, Noon**
