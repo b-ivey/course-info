@@ -1,4 +1,4 @@
-# JMM 341/640: Web Design
+# JMM 341-4J: Web Design
 ## Course Outline
 
 Complete reading assignments before the start of the following week.
