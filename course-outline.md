@@ -12,7 +12,7 @@ All assignments are due at noon on the date specified.
 - **GitHub Setup:** Friday, February 7.
 - **HTML:** Friday, February 21.
 - **CSS:** Friday, April 10.
-- **Final Project:** Friday, April 24.
+- **Final Project:** Wednesday, May 6
 
 
 ## Readings
