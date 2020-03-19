@@ -131,8 +131,12 @@ All assignments are due at noon on the date specified.
 
 - Q&A with final project.
 
-### Week 16 (May 6)
+### Week 16 (April 27)
 
 - Q&A with final project.
+
+### Week 17 (May 4)
+
+- No class
 
 - **DUE: FINAL PROJECT: Wednesday, May 6, Noon**
